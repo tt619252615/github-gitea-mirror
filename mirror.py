@@ -1,7 +1,13 @@
 #!/usr/bin/env python
 
-import gist
-import giststared
-import repoForked
-import repoSource
-import repoStared
+
+def main():
+    import gist
+    import giststared
+    import repoForked
+    import repoSource
+    import repoStared
+
+
+if __name__ == "__main__":
+    main()
